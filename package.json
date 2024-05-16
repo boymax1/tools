@@ -1,0 +1,25 @@
+{
+  "name": "@boymax_1/tools",
+  "version": "1.0.0",
+  "description": "A cli tool to improve efficiency",
+  "bin": {
+    "tools": "bin/index.mjs"
+  },
+  "scripts": {},
+  "keywords": [
+    "cli",
+    "zx"
+  ],
+  "author": "boymax_1",
+  "license": "MIT",
+  "devDependencies": {
+    "inquirer": "^9.2.21",
+    "nodemon": "^3.1.0",
+    "zx": "^8.0.2"
+  },
+  "packageManager": "pnpm@8.15.4",
+  "engines": {
+    "node": ">=16",
+    "pnpm": "^8.15.4"
+  }
+}

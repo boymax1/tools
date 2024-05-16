@@ -1,0 +1,30 @@
+{
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.stylelint": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "cSpell.words": [
+    "antd",
+    "browserslist",
+    "chunkhash",
+    "commitlint",
+    "formdata",
+    "loadmore",
+    "prettierrc",
+    "qtrade",
+    "stylelint",
+    "tabbar",
+    "vant",
+    "vconsole",
+    "vuex",
+    "Weixin",
+    "axios"
+  ],
+  "files.eol": "\n",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
